@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # amazon_auth_ui2
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# AmazonUI_Screen
+Amazon UI/UX using flutter 
+>>>>>>> 67ebc1d02a30854c471f24bd8f8af89058d58a4b
